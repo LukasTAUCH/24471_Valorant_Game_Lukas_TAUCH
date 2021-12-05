@@ -1,0 +1,2 @@
+chamber;30;phantom;20;0; 
+reyna;0;phantom;20;0; 

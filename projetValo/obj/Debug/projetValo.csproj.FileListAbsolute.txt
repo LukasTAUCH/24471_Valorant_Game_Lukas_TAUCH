@@ -1,0 +1,7 @@
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\obj\Debug\projetValo.csproj.AssemblyReference.cache
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\obj\Debug\projetValo.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\bin\Debug\projetValo.exe.config
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\bin\Debug\projetValo.exe
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\bin\Debug\projetValo.pdb
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\obj\Debug\projetValo.exe
+C:\Users\lukas\Documents\ESILV\ESILV A3 2021 2022\Cours\data\projetValo\projetValo\obj\Debug\projetValo.pdb
